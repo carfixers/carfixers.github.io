@@ -1,0 +1,59 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="/about/">About</a></li>
+   <li><a href="/articles/">Articles</a></li>
+   <li><a href="/contact/">Contact</a></li>
+
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+	   {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html username=site.facebook_username %}
+          </li>
+          {% endif %}
+	   {% if site.email %}
+          <li>
+            {% include icon-email.html username=site.email %}
+          </li>
+          {% endif %}
+	   {% if site.phone %}
+          <li>
+	<span style = "width:15px;height:15px;" class="icon">{% include icon-phone.svg %}</span>
+<a href="tel:{{site.phone}}">{{site.phone}}</a>	
+</li>
+          {% endif %}
+
+
+
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+      </div>
+    </div>
+
+  </div>
+ <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="{{ site.url }}js/materialize.js"></script>
+</footer>
