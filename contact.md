@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact us
-permalink: /contact/
+title: Subscribe
+permalink: /subscribe/
 ---
 
 <div class="row mar-top-50">
