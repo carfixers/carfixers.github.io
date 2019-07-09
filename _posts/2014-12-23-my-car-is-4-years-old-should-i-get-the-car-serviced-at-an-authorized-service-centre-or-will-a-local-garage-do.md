@@ -4,7 +4,7 @@ title: Authorized Service Centre all the time?
 date: 2014-12-23T06:20:28+00:00
 author: carfixers
 layout: post
-guid: http://carfixers.in/?p=6
+guid: http://carfixers.co.in/?p=6
 permalink: /my-car-is-4-years-old-should-i-get-the-car-serviced-at-an-authorized-service-centre-or-will-a-local-garage-do/
 isfeatured: yes
 categories:
