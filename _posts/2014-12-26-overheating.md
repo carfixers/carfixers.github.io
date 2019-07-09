@@ -4,7 +4,7 @@ title: Overheating!
 date: 2014-12-26T20:48:52+00:00
 author: carfixers
 layout: post
-guid: http://carfixers.co.in/overheating/
+guid: http://carfixers.co.in
 permalink: /overheating/
 isfeatured: yes
 categories:
@@ -39,7 +39,7 @@ Once engine cools down, check the level of coolant in the coolant reservoir tank
 
 -**If there’s a leakage, even though you fill the reservoir tank, it may drain off.**
 
-[<img class="alignnone size-full wp-image-42" src="http://carfixers.in/wp-content/uploads/2014/12/leakage.jpg" alt="leakage" width="259" height="194" />](http://carfixers.in/wp-content/uploads/2014/12/leakage.jpg)
+[<img class="alignnone size-full wp-image-42" src="http://carfixers.co.in/wp-content/uploads/2014/12/leakage.jpg" alt="leakage" width="259" height="194" />](http://carfixers.co.in/wp-content/uploads/2014/12/leakage.jpg)
 
 In case of heavy leakage, coolant will not stay in the system and in no time it will drain off which will be very much noticeable. In such a situation call the roadside assistance helpline & get the car towed to the nearest service centre.
 
@@ -51,7 +51,7 @@ One must always make it a habit to check if anything is leaking whenever your ca
 
 -**If the leakage is minor then top-up the coolant in the reservoir tank and drive off to the nearest service centre.**
 
-[<img class="alignnone size-full wp-image-41" src="http://carfixers.in/wp-content/uploads/2014/12/leakage-2.jpg" alt="leakage 2" width="194" height="259" />](http://carfixers.in/wp-content/uploads/2014/12/leakage-2.jpg)
+[<img class="alignnone size-full wp-image-41" src="http://carfixers.co.in/wp-content/uploads/2014/12/leakage-2.jpg" alt="leakage 2" width="194" height="259" />](http://carfixers.co.in/wp-content/uploads/2014/12/leakage-2.jpg)
 
 In this situation one has to keep topping up the water/coolant then drive for some time then again top-up with water/coolant because some of it will drain off while you drive and then again drive until you reach the nearest garage. If your car doesn’t reach the destination, then stop the car again, check the coolant level & refill the reservoir tank.
 
