@@ -4,7 +4,7 @@ title: 'Squeaky Noise From Car Door Hinges &#038; Door Seals'
 date: 2015-03-23T15:11:14+00:00
 author: carfixers
 layout: post
-guid: http://carfixers.in/?p=116
+guid: http://carfixers.co.in/?p=116
 permalink: /squeaky-noise-car-door-hinges-door-seals/
 categories:
   - Car Maintainence Tips
