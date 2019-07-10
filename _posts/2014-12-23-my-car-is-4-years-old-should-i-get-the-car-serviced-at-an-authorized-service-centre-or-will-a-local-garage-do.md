@@ -51,7 +51,7 @@ Taxes on spare parts and labour charges hike up the final invoice amount.
   
 It has powers of monopoly in terms of certain spare parts which forces the customer to get the repair job done at the authorized workshop, and pay a premium for the same. E.g, ECM,etc
   
-[<img class="alignnone size-full wp-image-11" src="http://carfixers.in/wp-content/uploads/2014/12/DSCN0416.jpg" alt="DSCN0416" width="3264" height="2448" />](http://carfixers.in/wp-content/uploads/2014/12/DSCN0416.jpg)[<img class="alignnone size-full wp-image-9" src="http://carfixers.in/wp-content/uploads/2014/12/IMG00296-20110829-1807.jpg" alt="IMG00296-20110829-1807" width="2048" height="1536" />](http://carfixers.in/wp-content/uploads/2014/12/IMG00296-20110829-1807.jpg)
+[<img class="alignnone size-full wp-image-11" src="http://carfixers.co.in/wp-content/uploads/2014/12/DSCN0416.jpg" alt="DSCN0416" width="3264" height="2448" />](http://carfixers.co.in/wp-content/uploads/2014/12/DSCN0416.jpg)[<img class="alignnone size-full wp-image-9" src="http://carfixers.co.in/wp-content/uploads/2014/12/IMG00296-20110829-1807.jpg" alt="IMG00296-20110829-1807" width="2048" height="1536" />](http://carfixers.co.in/wp-content/uploads/2014/12/IMG00296-20110829-1807.jpg)
 
 Generally it is always advisable to get the servicing done at an authorized service centre.
   
