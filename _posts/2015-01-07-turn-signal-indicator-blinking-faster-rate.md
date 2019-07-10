@@ -4,7 +4,7 @@ title: Turn signal indicator blinking at a faster rate
 date: 2015-01-07T00:03:31+00:00
 author: carfixers
 layout: post
-guid: http://carfixers.in/?p=58
+guid: http://carfixers.co.in/?p=58
 permalink: /turn-signal-indicator-blinking-faster-rate/
 isfeatured: yes
 categories:
@@ -16,7 +16,7 @@ While taking a turn we always use left or right turn signal indicator. On either
 
 This obviously is a smart way to let the driver know something is not right with the indicator lights and needs attention.
 
-[<img class="alignnone size-full wp-image-59" src="http://carfixers.in/wp-content/uploads/2015/01/turn_signal_red2.jpg" alt="turn_signal_red2" width="400" height="300" />](http://carfixers.in/wp-content/uploads/2015/01/turn_signal_red2.jpg)
+[<img class="alignnone size-full wp-image-59" src="http://carfixers.co.in/wp-content/uploads/2015/01/turn_signal_red2.jpg" alt="turn_signal_red2" width="400" height="300" />](http://carfixers.co.in/wp-content/uploads/2015/01/turn_signal_red2.jpg)
 
 Turn signal lights are the same lights which are also used for giving hazard light indication. From safety point of view, it is very important that all the bulbs are working in a car before you take it for a drive.
 
