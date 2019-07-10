@@ -16,7 +16,7 @@ While taking a turn we always use left or right turn signal indicator. On either
 
 This obviously is a smart way to let the driver know something is not right with the indicator lights and needs attention.
 
-![turn_signal_red2](http://carfixers.co.in/wp-content/uploads/2015/01/turn_signal_red2.jpg)
+![turn_signal_red](http://carfixers.co.in/wp-content/uploads/2015/01/turn_signal_red2.jpg)
 
 Turn signal lights are the same lights which are also used for giving hazard light indication. From safety point of view, it is very important that all the bulbs are working in a car before you take it for a drive.
 
