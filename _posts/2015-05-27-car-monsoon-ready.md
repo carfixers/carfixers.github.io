@@ -4,7 +4,7 @@ title: Is your car monsoon ready ?
 date: 2015-05-27T16:27:52+00:00
 author: carfixers
 layout: post
-guid: http://carfixers.in/?p=173
+guid: http://carfixers.co.in/?p=173
 permalink: /car-monsoon-ready/
 categories:
   - Car Maintainence Tips
